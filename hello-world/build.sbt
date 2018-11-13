@@ -1,4 +1,4 @@
-name := "sbt-example"
+name := "hello-world"
 
 version := "0.1"
 
@@ -9,4 +9,4 @@ libraryDependencies ++= Seq(
   "com.typesafe.akka" %% "akka-remote" % "2.5.18"
 )
 
-resolvers += "aliyun maven" at " http://maven.aliyun.com/mvn/view"
+//resolvers += "aliyun maven" at " http://maven.aliyun.com/mvn/view"
